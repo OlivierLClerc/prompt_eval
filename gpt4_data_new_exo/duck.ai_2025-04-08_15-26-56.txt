@@ -1,0 +1,9 @@
+﻿Cette conversation a été générée avec Duck.ai (https://duck.ai) à l'aide du modèle GPT-4o mini d'OpenAI. Les chats IA peuvent afficher des informations inexactes ou offensantes (voir https://duckduckgo.com/duckai/privacy-terms pour en savoir plus).
+
+====================
+
+Message 1 sur 1 de l'utilisateur - 08/04/2025 15:26:52:
+Quelle partie d'un robot relie les capteurs et les moteurs entre eux pour aider à éviter les obstacles ?
+
+GPT-4o mini:
+La partie d'un robot qui relie les capteurs et les moteurs pour aider à éviter les obstacles est généralement appelée le **système de contrôle** ou **unité de contrôle**. Ce système peut inclure un microcontrôleur ou un ordinateur embarqué qui reçoit les données des capteurs (comme des capteurs de distance, des caméras, ou des capteurs infrarouges) et utilise ces informations pour prendre des décisions. Ensuite, il envoie des commandes aux moteurs pour ajuster la direction ou la vitesse du robot afin d'éviter les obstacles. Ce processus est souvent basé sur des algorithmes de traitement de signal et de prise de décision.

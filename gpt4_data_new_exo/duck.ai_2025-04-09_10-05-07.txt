@@ -1,0 +1,13 @@
+﻿Cette conversation a été générée avec Duck.ai (https://duck.ai) à l'aide du modèle GPT-4o mini d'OpenAI. Les chats IA peuvent afficher des informations inexactes ou offensantes (voir https://duckduckgo.com/duckai/privacy-terms pour en savoir plus).
+
+====================
+
+Message 1 sur 1 de l'utilisateur - 09/04/2025 10:05:02:
+Quelle est la force responsable de l’incapacité des astronautes à marcher dans l’espace comme ils le font sur Terre ?
+
+GPT-4o mini:
+L'incapacité des astronautes à marcher dans l'espace comme ils le font sur Terre est principalement due à l'absence de gravité, ou plus précisément, à la microgravité qui règne en orbite terrestre. Sur Terre, la gravité attire les objets vers le sol, ce qui permet aux êtres humains de marcher, courir et se déplacer normalement. 
+
+En revanche, dans l'espace, les astronautes sont en état de chute libre, ce qui signifie qu'ils tombent vers la Terre à la même vitesse que leur vaisseau spatial. Cela crée une sensation d'apesanteur, où les effets de la gravité sont considérablement réduits. Par conséquent, au lieu de marcher, les astronautes flottent et se déplacent en utilisant des mouvements de bras et de jambes, ou en s'accrochant à des surfaces pour se propulser. 
+
+En résumé, c'est l'absence de gravité qui empêche les astronautes de marcher comme ils le feraient sur Terre.

@@ -1,0 +1,9 @@
+﻿Cette conversation a été générée avec Duck.ai (https://duck.ai) à l'aide du modèle GPT-4o mini d'OpenAI. Les chats IA peuvent afficher des informations inexactes ou offensantes (voir https://duckduckgo.com/duckai/privacy-terms pour en savoir plus).
+
+====================
+
+Message 1 sur 1 de l'utilisateur - 09/04/2025 16:54:47:
+Quelle partie du corps les médecins veulent-ils évaluer quand ils tapotent le genou d’un patient lors d’un examen médical ?
+
+GPT-4o mini:
+Lorsqu'un médecin tapote le genou d'un patient lors d'un examen médical, il évalue principalement le réflexe rotulien. Ce test permet d'examiner le fonctionnement du nerf fémoral et de la moelle épinière au niveau des segments L2 à L4. En stimulant le tendon rotulien, le médecin observe la réponse du muscle quadriceps, qui se contracte et provoque une extension de la jambe. Cela aide à évaluer l'intégrité du système nerveux et à détecter d'éventuelles anomalies.

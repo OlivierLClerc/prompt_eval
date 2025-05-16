@@ -1,0 +1,13 @@
+﻿Cette conversation a été générée avec Duck.ai (https://duck.ai) à l'aide du modèle GPT-4o mini d'OpenAI. Les chats IA peuvent afficher des informations inexactes ou offensantes (voir https://duckduckgo.com/duckai/privacy-terms pour en savoir plus).
+
+====================
+
+Message 1 sur 1 de l'utilisateur - 29/04/2025 17:49:37:
+Quelle propriété nous permet de voir le spectre ?
+
+GPT-4o mini:
+La propriété qui nous permet de voir le spectre est la **diffraction**. La diffraction est le phénomène par lequel les ondes, y compris la lumière, se propagent et se dispersent lorsqu'elles rencontrent un obstacle ou une ouverture. Cela permet de séparer les différentes longueurs d'onde de la lumière, ce qui est essentiel pour observer le spectre lumineux.
+
+En outre, la **réfraction** joue également un rôle important dans la séparation des couleurs. Par exemple, lorsque la lumière blanche passe à travers un prisme, elle se réfracte à des angles différents selon sa longueur d'onde, ce qui crée un spectre de couleurs.
+
+Enfin, la **spectroscopie** est la technique qui utilise ces propriétés pour analyser les spectres de lumière émis ou absorbés par des substances, permettant ainsi d'obtenir des informations sur leur composition chimique et leurs propriétés.

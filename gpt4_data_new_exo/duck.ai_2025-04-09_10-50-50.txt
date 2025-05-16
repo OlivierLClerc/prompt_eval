@@ -1,0 +1,13 @@
+﻿Cette conversation a été générée avec Duck.ai (https://duck.ai) à l'aide du modèle GPT-4o mini d'OpenAI. Les chats IA peuvent afficher des informations inexactes ou offensantes (voir https://duckduckgo.com/duckai/privacy-terms pour en savoir plus).
+
+====================
+
+Message 1 sur 1 de l'utilisateur - 09/04/2025 10:50:44:
+Quelle est la propriété physique qui rend certaines ondes invisibles pour l'humain ?
+
+GPT-4o mini:
+La propriété physique qui rend certaines ondes invisibles pour l'humain est la longueur d'onde. L'œil humain est sensible à une gamme spécifique de longueurs d'onde de la lumière, généralement entre environ 380 nanomètres (violet) et 750 nanomètres (rouge), ce qui correspond à la lumière visible. 
+
+Les ondes qui ont des longueurs d'onde plus courtes que celles de la lumière visible, comme les rayons ultraviolets, et celles qui ont des longueurs d'onde plus longues, comme les infrarouges, sont invisibles pour l'œil humain. D'autres types d'ondes, comme les ondes radio ou les micro-ondes, ont également des longueurs d'onde qui les rendent invisibles. 
+
+En résumé, c'est la longueur d'onde qui détermine la visibilité des ondes pour l'œil humain.

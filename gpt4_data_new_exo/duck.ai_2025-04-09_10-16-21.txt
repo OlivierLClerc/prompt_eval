@@ -1,0 +1,13 @@
+﻿Cette conversation a été générée avec Duck.ai (https://duck.ai) à l'aide du modèle GPT-4o mini d'OpenAI. Les chats IA peuvent afficher des informations inexactes ou offensantes (voir https://duckduckgo.com/duckai/privacy-terms pour en savoir plus).
+
+====================
+
+Message 1 sur 1 de l'utilisateur - 09/04/2025 10:16:17:
+Qu'est-ce qui fait qu'un crayon change de direction lorsqu'il est mis dans un verre d'eau ?
+
+GPT-4o mini:
+Le phénomène par lequel un crayon semble changer de direction lorsqu'il est plongé dans un verre d'eau est dû à la réfraction de la lumière. La réfraction se produit lorsque la lumière passe d'un milieu à un autre, par exemple de l'air à l'eau, et change de vitesse. 
+
+Lorsque la lumière traverse l'interface entre l'air et l'eau, elle se courbe en raison de la différence de densité entre les deux milieux. Comme l'eau est plus dense que l'air, la lumière ralentit en entrant dans l'eau, ce qui provoque un changement de direction. 
+
+Ainsi, lorsque vous regardez le crayon à travers l'eau, la lumière qui se déplace de la partie immergée du crayon à vos yeux est déviée, ce qui donne l'illusion que le crayon est cassé ou qu'il change de direction à la surface de l'eau. Ce phénomène est également à l'origine de l'effet visuel que l'on observe avec d'autres objets partiellement immergés.
